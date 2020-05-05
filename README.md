@@ -1,6 +1,6 @@
 # IoT-Mini Project 10
 
-ESP8266 dihubungkan dengan ESPServer untuk mengambil ID CARD yang dideteksi oleh RFID kemudian akan menampilkan ID CARD dari tersebut ke dalam website
+ESP8266 dihubungkan dengan ESPServer untuk mengambil ID CARD yang dideteksi oleh RFID kemudian akan menampilkan ID CARD dari tersebut ke dalam ESPServer website
 
 --------------------------------------------------
 
@@ -15,6 +15,6 @@ ESP8266 dihubungkan dengan ESPServer untuk mengambil ID CARD yang dideteksi oleh
 
 --------------------------------------------------
 
-Link Tutorial YouTube: [Click Here](https://youtu.be/SbgQbV7IxRo)
+Link Tutorial YouTube: [Click Here](https://youtu.be/e77QxddEmNo)
 
 --------------------------------------------------
